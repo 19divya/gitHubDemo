@@ -1,2 +1,6 @@
 this is file1
+
 file1.txt from feature1
+
+file1.txt from feature2
+
