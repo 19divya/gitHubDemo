@@ -1,2 +1,6 @@
 this is file2
+
 file2.txt from dev1Feature2
+
+file2.txt from dev1Feature1
+
